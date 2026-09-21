@@ -1,5 +1,4 @@
 from typing import Literal, Optional
-
 from dotenv import load_dotenv
 from langchain_huggingface import ChatHuggingFace, HuggingFaceEndpoint
 from pydantic import BaseModel, Field
